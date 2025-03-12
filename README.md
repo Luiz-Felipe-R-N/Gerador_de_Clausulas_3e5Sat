@@ -1,0 +1,2 @@
+# Gerador_de_Clausulas_3e5Sat
+ Esse script conduz experimentos sobre a transição de fase no problema k-SAT, variando a razão cláusulas/variáveis (α) e analisando a probabilidade de satisfazibilidade das instâncias geradas. Ele utiliza o solver Glucose3 para determinar se as fórmulas são satisfatíveis, mede tempos de execução e estima o valor crítico de α (α_c) onde a transição ocorre. Os resultados são salvos em um log e visualizados em gráficos de probabilidade SAT e tempo médio por instância.

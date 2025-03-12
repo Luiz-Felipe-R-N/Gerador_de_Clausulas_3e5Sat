@@ -1,0 +1,364 @@
+RELATÓRIO DO EXPERIMENTO SAT
+======================================================================
+Configuração: n = 25, k = 5
+Intervalo alpha: 1.0 a 30.0 (passo 0.5)
+Número de instâncias por alpha: 50
+Ponto crítico teórico (α_c): 21.12
+======================================================================
+
+RESULTADOS DETALHADOS
+======================================================================
+Alpha: 1.0
+  - Cláusulas: 25
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0000s
+----------------------------------------------------------------------
+Alpha: 1.5
+  - Cláusulas: 37
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0000s
+----------------------------------------------------------------------
+Alpha: 2.0
+  - Cláusulas: 50
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 2.5
+  - Cláusulas: 62
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 3.0
+  - Cláusulas: 75
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 3.5
+  - Cláusulas: 87
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 4.0
+  - Cláusulas: 100
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 4.5
+  - Cláusulas: 112
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 5.0
+  - Cláusulas: 125
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 5.5
+  - Cláusulas: 137
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.00s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 6.0
+  - Cláusulas: 150
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 6.5
+  - Cláusulas: 162
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 7.0
+  - Cláusulas: 175
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 7.5
+  - Cláusulas: 187
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 8.0
+  - Cláusulas: 200
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 8.5
+  - Cláusulas: 212
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 9.0
+  - Cláusulas: 225
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 9.5
+  - Cláusulas: 237
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0001s
+----------------------------------------------------------------------
+Alpha: 10.0
+  - Cláusulas: 250
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 10.5
+  - Cláusulas: 262
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 11.0
+  - Cláusulas: 275
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 11.5
+  - Cláusulas: 287
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 12.0
+  - Cláusulas: 300
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 12.5
+  - Cláusulas: 312
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 13.0
+  - Cláusulas: 325
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 13.5
+  - Cláusulas: 337
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 14.0
+  - Cláusulas: 350
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 14.5
+  - Cláusulas: 362
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0002s
+----------------------------------------------------------------------
+Alpha: 15.0
+  - Cláusulas: 375
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0003s
+----------------------------------------------------------------------
+Alpha: 15.5
+  - Cláusulas: 387
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.01s
+  - Tempo médio/instância: 0.0003s
+----------------------------------------------------------------------
+Alpha: 16.0
+  - Cláusulas: 400
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.02s
+  - Tempo médio/instância: 0.0003s
+----------------------------------------------------------------------
+Alpha: 16.5
+  - Cláusulas: 412
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.02s
+  - Tempo médio/instância: 0.0003s
+----------------------------------------------------------------------
+Alpha: 17.0
+  - Cláusulas: 425
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.02s
+  - Tempo médio/instância: 0.0004s
+----------------------------------------------------------------------
+Alpha: 17.5
+  - Cláusulas: 437
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.03s
+  - Tempo médio/instância: 0.0006s
+----------------------------------------------------------------------
+Alpha: 18.0
+  - Cláusulas: 450
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.03s
+  - Tempo médio/instância: 0.0005s
+----------------------------------------------------------------------
+Alpha: 18.5
+  - Cláusulas: 462
+  - Probabilidade SAT: 100.00%
+  - Tempo total: 0.03s
+  - Tempo médio/instância: 0.0006s
+----------------------------------------------------------------------
+Alpha: 19.0
+  - Cláusulas: 475
+  - Probabilidade SAT: 94.00%
+  - Tempo total: 0.04s
+  - Tempo médio/instância: 0.0009s
+----------------------------------------------------------------------
+Alpha: 19.5
+  - Cláusulas: 487
+  - Probabilidade SAT: 94.00%
+  - Tempo total: 0.04s
+  - Tempo médio/instância: 0.0009s
+----------------------------------------------------------------------
+Alpha: 20.0
+  - Cláusulas: 500
+  - Probabilidade SAT: 76.00%
+  - Tempo total: 0.05s
+  - Tempo médio/instância: 0.0010s
+----------------------------------------------------------------------
+Alpha: 20.5
+  - Cláusulas: 512
+  - Probabilidade SAT: 82.00%
+  - Tempo total: 0.06s
+  - Tempo médio/instância: 0.0012s
+----------------------------------------------------------------------
+Alpha: 21.0
+  - Cláusulas: 525
+  - Probabilidade SAT: 62.00%
+  - Tempo total: 0.06s
+  - Tempo médio/instância: 0.0013s
+----------------------------------------------------------------------
+Alpha: 21.5
+  - Cláusulas: 537
+  - Probabilidade SAT: 54.00%
+  - Tempo total: 0.07s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 22.0
+  - Cláusulas: 550
+  - Probabilidade SAT: 46.00%
+  - Tempo total: 0.07s
+  - Tempo médio/instância: 0.0014s
+----------------------------------------------------------------------
+Alpha: 22.5
+  - Cláusulas: 562
+  - Probabilidade SAT: 30.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0016s
+----------------------------------------------------------------------
+Alpha: 23.0
+  - Cláusulas: 575
+  - Probabilidade SAT: 34.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0016s
+----------------------------------------------------------------------
+Alpha: 23.5
+  - Cláusulas: 587
+  - Probabilidade SAT: 26.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 24.0
+  - Cláusulas: 600
+  - Probabilidade SAT: 16.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0016s
+----------------------------------------------------------------------
+Alpha: 24.5
+  - Cláusulas: 612
+  - Probabilidade SAT: 12.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 25.0
+  - Cláusulas: 625
+  - Probabilidade SAT: 10.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0016s
+----------------------------------------------------------------------
+Alpha: 25.5
+  - Cláusulas: 637
+  - Probabilidade SAT: 4.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 26.0
+  - Cláusulas: 650
+  - Probabilidade SAT: 4.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 26.5
+  - Cláusulas: 662
+  - Probabilidade SAT: 4.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0016s
+----------------------------------------------------------------------
+Alpha: 27.0
+  - Cláusulas: 675
+  - Probabilidade SAT: 0.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 27.5
+  - Cláusulas: 687
+  - Probabilidade SAT: 2.00%
+  - Tempo total: 0.08s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 28.0
+  - Cláusulas: 700
+  - Probabilidade SAT: 0.00%
+  - Tempo total: 0.07s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 28.5
+  - Cláusulas: 712
+  - Probabilidade SAT: 0.00%
+  - Tempo total: 0.07s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 29.0
+  - Cláusulas: 725
+  - Probabilidade SAT: 0.00%
+  - Tempo total: 0.07s
+  - Tempo médio/instância: 0.0014s
+----------------------------------------------------------------------
+Alpha: 29.5
+  - Cláusulas: 737
+  - Probabilidade SAT: 0.00%
+  - Tempo total: 0.07s
+  - Tempo médio/instância: 0.0015s
+----------------------------------------------------------------------
+Alpha: 30.0
+  - Cláusulas: 750
+  - Probabilidade SAT: 0.00%
+  - Tempo total: 0.07s
+  - Tempo médio/instância: 0.0014s
+----------------------------------------------------------------------

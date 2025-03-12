@@ -1,0 +1,1458 @@
+RELATÓRIO COMPLETO
+Alpha crítico calculado: 22.1
+==================================================
+Alpha 1.0 (m=20):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 1.1 (m=22):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 1.2 (m=24):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 1.3 (m=26):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 1.4 (m=28):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 1.5 (m=30):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 1.6 (m=32):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 1.7 (m=34):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 1.8 (m=36):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 1.9 (m=38):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.0 (m=40):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.1 (m=42):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.2 (m=44):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.3 (m=46):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.4 (m=48):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.5 (m=50):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.6 (m=52):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.7 (m=54):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.8 (m=56):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 2.9 (m=58):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 3.0 (m=60):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 3.1 (m=62):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 3.2 (m=64):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0000s
+--------------------------------------------------
+Alpha 3.3 (m=66):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 3.4 (m=68):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 3.5 (m=70):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 3.6 (m=72):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 3.7 (m=74):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 3.8 (m=76):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 3.9 (m=78):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.0 (m=80):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.1 (m=82):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.2 (m=84):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.3 (m=86):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.4 (m=88):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.5 (m=90):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.6 (m=92):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.7 (m=94):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.8 (m=96):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 4.9 (m=98):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.0 (m=100):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.1 (m=102):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.2 (m=104):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.3 (m=106):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.4 (m=108):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.5 (m=110):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.6 (m=112):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.7 (m=114):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.8 (m=116):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 5.9 (m=118):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.0 (m=120):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.1 (m=122):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.2 (m=124):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.3 (m=126):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.4 (m=128):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.5 (m=130):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.6 (m=132):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.7 (m=134):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.8 (m=136):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 6.9 (m=138):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.0 (m=140):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.1 (m=142):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.2 (m=144):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.3 (m=146):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.4 (m=148):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.5 (m=150):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.6 (m=152):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.7 (m=154):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.8 (m=156):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 7.9 (m=158):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.0 (m=160):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.1 (m=162):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.2 (m=164):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.3 (m=166):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.4 (m=168):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.5 (m=170):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.6 (m=172):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.7 (m=174):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.00s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.8 (m=176):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 8.9 (m=178):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.0 (m=180):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.1 (m=182):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.2 (m=184):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.3 (m=186):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.4 (m=188):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.5 (m=190):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.6 (m=192):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.7 (m=194):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.8 (m=196):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 9.9 (m=198):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 10.0 (m=200):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 10.1 (m=202):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 10.2 (m=204):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 10.3 (m=206):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 10.4 (m=208):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 10.5 (m=210):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 10.6 (m=212):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 10.7 (m=214):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 10.8 (m=216):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 10.9 (m=218):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.0 (m=220):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.1 (m=222):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.2 (m=224):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.3 (m=226):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.4 (m=228):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.5 (m=230):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.6 (m=232):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.7 (m=234):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.8 (m=236):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 11.9 (m=238):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 12.0 (m=240):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 12.1 (m=242):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 12.2 (m=244):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 12.3 (m=246):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 12.4 (m=248):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 12.5 (m=250):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 12.6 (m=252):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 12.7 (m=254):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0001s
+--------------------------------------------------
+Alpha 12.8 (m=256):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 12.9 (m=258):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.0 (m=260):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.1 (m=262):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.2 (m=264):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.3 (m=266):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.4 (m=268):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.5 (m=270):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.6 (m=272):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.7 (m=274):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.8 (m=276):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 13.9 (m=278):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.0 (m=280):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.1 (m=282):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.2 (m=284):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.3 (m=286):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.4 (m=288):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.5 (m=290):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.6 (m=292):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.7 (m=294):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.8 (m=296):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 14.9 (m=298):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.0 (m=300):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.1 (m=302):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.2 (m=304):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.3 (m=306):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.4 (m=308):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.5 (m=310):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.6 (m=312):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.7 (m=314):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.8 (m=316):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 15.9 (m=318):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 16.0 (m=320):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 16.1 (m=322):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 16.2 (m=324):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 16.3 (m=326):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 16.4 (m=328):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 16.5 (m=330):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 16.6 (m=332):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 16.7 (m=334):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0002s
+--------------------------------------------------
+Alpha 16.8 (m=336):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 16.9 (m=338):
+  Probabilidade SAT: 98.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.0 (m=340):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.1 (m=342):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.2 (m=344):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.3 (m=346):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.4 (m=348):
+  Probabilidade SAT: 98.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.5 (m=350):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.6 (m=352):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.7 (m=354):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.8 (m=356):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.01s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 17.9 (m=358):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 18.0 (m=360):
+  Probabilidade SAT: 98.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 18.1 (m=362):
+  Probabilidade SAT: 98.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 18.2 (m=364):
+  Probabilidade SAT: 100.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 18.3 (m=366):
+  Probabilidade SAT: 96.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0003s
+--------------------------------------------------
+Alpha 18.4 (m=368):
+  Probabilidade SAT: 98.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 18.5 (m=370):
+  Probabilidade SAT: 98.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 18.6 (m=372):
+  Probabilidade SAT: 98.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 18.7 (m=374):
+  Probabilidade SAT: 94.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 18.8 (m=376):
+  Probabilidade SAT: 94.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 18.9 (m=378):
+  Probabilidade SAT: 96.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 19.0 (m=380):
+  Probabilidade SAT: 98.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 19.1 (m=382):
+  Probabilidade SAT: 90.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 19.2 (m=384):
+  Probabilidade SAT: 90.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 19.3 (m=386):
+  Probabilidade SAT: 88.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 19.4 (m=388):
+  Probabilidade SAT: 92.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 19.5 (m=390):
+  Probabilidade SAT: 86.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0004s
+--------------------------------------------------
+Alpha 19.6 (m=392):
+  Probabilidade SAT: 92.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 19.7 (m=394):
+  Probabilidade SAT: 86.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 19.8 (m=396):
+  Probabilidade SAT: 88.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 19.9 (m=398):
+  Probabilidade SAT: 80.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 20.0 (m=400):
+  Probabilidade SAT: 82.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 20.1 (m=402):
+  Probabilidade SAT: 80.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 20.2 (m=404):
+  Probabilidade SAT: 82.00%
+  Tempo total: 0.02s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 20.3 (m=406):
+  Probabilidade SAT: 72.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 20.4 (m=408):
+  Probabilidade SAT: 70.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 20.5 (m=410):
+  Probabilidade SAT: 68.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 20.6 (m=412):
+  Probabilidade SAT: 66.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 20.7 (m=414):
+  Probabilidade SAT: 68.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 20.8 (m=416):
+  Probabilidade SAT: 64.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 20.9 (m=418):
+  Probabilidade SAT: 62.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 21.0 (m=420):
+  Probabilidade SAT: 62.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 21.1 (m=422):
+  Probabilidade SAT: 72.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 21.2 (m=424):
+  Probabilidade SAT: 58.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 21.3 (m=426):
+  Probabilidade SAT: 64.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 21.4 (m=428):
+  Probabilidade SAT: 60.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0005s
+--------------------------------------------------
+Alpha 21.5 (m=430):
+  Probabilidade SAT: 52.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 21.6 (m=432):
+  Probabilidade SAT: 40.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 21.7 (m=434):
+  Probabilidade SAT: 48.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 21.8 (m=436):
+  Probabilidade SAT: 50.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 21.9 (m=438):
+  Probabilidade SAT: 50.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 22.0 (m=440):
+  Probabilidade SAT: 46.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 22.1 (m=442):
+  Probabilidade SAT: 50.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 22.2 (m=444):
+  Probabilidade SAT: 32.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 22.3 (m=446):
+  Probabilidade SAT: 32.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 22.4 (m=448):
+  Probabilidade SAT: 30.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 22.5 (m=450):
+  Probabilidade SAT: 34.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 22.6 (m=452):
+  Probabilidade SAT: 36.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 22.7 (m=454):
+  Probabilidade SAT: 34.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 22.8 (m=456):
+  Probabilidade SAT: 20.00%
+  Tempo total: 0.04s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 22.9 (m=458):
+  Probabilidade SAT: 24.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 23.0 (m=460):
+  Probabilidade SAT: 18.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 23.1 (m=462):
+  Probabilidade SAT: 22.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 23.2 (m=464):
+  Probabilidade SAT: 26.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 23.3 (m=466):
+  Probabilidade SAT: 28.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 23.4 (m=468):
+  Probabilidade SAT: 20.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 23.5 (m=470):
+  Probabilidade SAT: 26.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 23.6 (m=472):
+  Probabilidade SAT: 24.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 23.7 (m=474):
+  Probabilidade SAT: 28.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0006s
+--------------------------------------------------
+Alpha 23.8 (m=476):
+  Probabilidade SAT: 16.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 23.9 (m=478):
+  Probabilidade SAT: 14.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.0 (m=480):
+  Probabilidade SAT: 18.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.1 (m=482):
+  Probabilidade SAT: 14.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.2 (m=484):
+  Probabilidade SAT: 16.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.3 (m=486):
+  Probabilidade SAT: 12.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.4 (m=488):
+  Probabilidade SAT: 14.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.5 (m=490):
+  Probabilidade SAT: 12.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.6 (m=492):
+  Probabilidade SAT: 12.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.7 (m=494):
+  Probabilidade SAT: 16.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.8 (m=496):
+  Probabilidade SAT: 10.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 24.9 (m=498):
+  Probabilidade SAT: 10.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.0 (m=500):
+  Probabilidade SAT: 10.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.1 (m=502):
+  Probabilidade SAT: 16.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.2 (m=504):
+  Probabilidade SAT: 4.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.3 (m=506):
+  Probabilidade SAT: 10.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.4 (m=508):
+  Probabilidade SAT: 6.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.5 (m=510):
+  Probabilidade SAT: 6.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.6 (m=512):
+  Probabilidade SAT: 8.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.7 (m=514):
+  Probabilidade SAT: 6.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.8 (m=516):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 25.9 (m=518):
+  Probabilidade SAT: 6.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.0 (m=520):
+  Probabilidade SAT: 10.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.1 (m=522):
+  Probabilidade SAT: 6.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.2 (m=524):
+  Probabilidade SAT: 4.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.3 (m=526):
+  Probabilidade SAT: 8.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.4 (m=528):
+  Probabilidade SAT: 4.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.5 (m=530):
+  Probabilidade SAT: 4.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.6 (m=532):
+  Probabilidade SAT: 6.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.7 (m=534):
+  Probabilidade SAT: 6.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.8 (m=536):
+  Probabilidade SAT: 4.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 26.9 (m=538):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.0 (m=540):
+  Probabilidade SAT: 4.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.1 (m=542):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.2 (m=544):
+  Probabilidade SAT: 4.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.3 (m=546):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.4 (m=548):
+  Probabilidade SAT: 6.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.5 (m=550):
+  Probabilidade SAT: 4.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.6 (m=552):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.7 (m=554):
+  Probabilidade SAT: 4.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.8 (m=556):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 27.9 (m=558):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.0 (m=560):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.1 (m=562):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.2 (m=564):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.3 (m=566):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.4 (m=568):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.5 (m=570):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.6 (m=572):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.7 (m=574):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.8 (m=576):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 28.9 (m=578):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.0 (m=580):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.1 (m=582):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.2 (m=584):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.3 (m=586):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.4 (m=588):
+  Probabilidade SAT: 2.00%
+  Tempo total: 0.04s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.5 (m=590):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.6 (m=592):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.7 (m=594):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.8 (m=596):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 29.9 (m=598):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
+Alpha 30.0 (m=600):
+  Probabilidade SAT: 0.00%
+  Tempo total: 0.03s
+  Tempo médio/instância: 0.0007s
+--------------------------------------------------
